@@ -1,7 +1,8 @@
-# aweosme-resources-for-indic-nlp
+# awesome-resources-for-indic-nlp
 
 ## Common Resources
-[OPUS the open parrallel corpus](http://opus.nlpl.eu/OpenSubtitles-v1.php)
+[OPUS the open parrallel corpus](http://opus.nlpl.eu/OpenSubtitles-v2018.php)
+
 [A Dravidian Etymological Dictionary](https://dsalsrv04.uchicago.edu/cgi-bin/app/burrow_query.py?page=1)
 
 
