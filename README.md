@@ -5,6 +5,8 @@
 
 [A Dravidian Etymological Dictionary](https://dsalsrv04.uchicago.edu/cgi-bin/app/burrow_query.py?page=1)
 
+[Byte Pair Encoding - Pretrained for 275 language](https://nlp.h-its.org/bpemb/)
+
 
 ## Language Specific
 
