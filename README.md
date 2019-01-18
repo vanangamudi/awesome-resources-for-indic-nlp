@@ -7,6 +7,8 @@
 
 [Byte Pair Encoding - Pretrained for 275 language](https://nlp.h-its.org/bpemb/)
 
+[FastText word vectors for 157 languages](https://fasttext.cc/docs/en/crawl-vectors.html)
+
 
 ## Language Specific
 
