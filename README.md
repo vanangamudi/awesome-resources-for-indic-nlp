@@ -23,8 +23,9 @@
 [Open Tamil](https://github.com/Ezhil-Language-Foundation/open-tamil) Suite of tools for operating on tamil text.
 
 #### Scrapers
-[Tamil Etymological Dictionary](https://github.com/vanangamudi/tamilvu-etymdict-scraper)
-[Newspaper Crawlers] (https://github.com/vanangamudi/newspaper-crawler-scripts)
+1. [Tamil Etymological Dictionary](https://github.com/vanangamudi/tamilvu-etymdict-scraper)
+2. [Newspaper Crawlers](https://github.com/vanangamudi/newspaper-crawler-scripts)
 
 #### ML models
-[Text Classification model in Pytorch](https://github.com/vanangamudi/tamil-news-classification) Can be easily applied to other datasets, infact the linekd repository also contains a dataset for film reviews in tamil.
+[Text Classification model in Pytorch](https://github.com/vanangamudi/tamil-news-classification) 
+     Can be easily applied to other datasets, infact the linekd repository also contains a dataset for film reviews in tamil.
