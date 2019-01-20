@@ -16,4 +16,15 @@
 [mlmorph - Malayalam Morphological Analyzer using Finite State Transducer](https://gitlab.com/smc/mlmorph)
 
 ### Tamil
-[Tamil Etymological Dictionary](http://stream1.tamilvu.in/etytamildict/TamilDemo.aspx)
+#### Datasets
+[Datasets in tamil text](https://github.com/vanangamudi/tharavukkanam)
+
+#### Other projects
+[Open Tamil](https://github.com/Ezhil-Language-Foundation/open-tamil) Suite of tools for operating on tamil text.
+
+#### Scrapers
+[Tamil Etymological Dictionary](https://github.com/vanangamudi/tamilvu-etymdict-scraper)
+[Newspaper Crawlers] (https://github.com/vanangamudi/newspaper-crawler-scripts)
+
+#### ML models
+[Text Classification model in Pytorch](https://github.com/vanangamudi/tamil-news-classification) Can be easily applied to other datasets, infact the linekd repository also contains a dataset for film reviews in tamil.
