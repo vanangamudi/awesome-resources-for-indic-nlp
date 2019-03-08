@@ -54,3 +54,9 @@
 
 [Research Papers in Bengali NLP](http://www.tdil-dc.in/index.php?option=com_download&task=fsearch&lang=en&limitstart=45&limit=5)
 
+### Hindi
+[NLP for Hindi](https://github.com/goru001/nlp-for-hindi)
+
+### Punjabi
+[NLP for Punjabi](https://github.com/goru001/nlp-for-punjabi)
+
