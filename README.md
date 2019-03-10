@@ -56,7 +56,16 @@
 
 ### Hindi
 [NLP for Hindi](https://github.com/goru001/nlp-for-hindi)
+* Contains Wikipedia Articles Dataset (55,000 articles) and scripts which were used to scrape Wikipedia and clean that dataset
+* Contains Hindi Movie Reviews Dataset and scripts which were used to scrape those Movie Reviews from Hindi News Websites
+* Contains Language Model with Perplexity ~36
+* Contains Movie Review classification model with Kappa Score ~30
+* Contains BBC News Classification Model with Accuracy ~79
 
 ### Punjabi
 [NLP for Punjabi](https://github.com/goru001/nlp-for-punjabi)
+* Contains Wikipedia Articles Dataset (44,000 articles) and scripts which were used to scrape Wikipedia and clean that dataset
+* Contains BBC Punjabi News dataset and scripts which were used to scrape those News articles from Punjabi News Websites
+* Contains Language Model with Perplexity ~13
+* Contains BBC News Classification Model with kappa score ~49
 
