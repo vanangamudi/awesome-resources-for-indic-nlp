@@ -47,6 +47,11 @@
 
 [Bengali News Classification](https://github.com/soham96/Bengali_news_classifier)
 
+[NLP for Bengali](https://github.com/goru001/nlp-for-bengali)
+* Contains Wikipedia Articles Dataset (72,374 articles) and scripts which were used to scrape Wikipedia and clean that dataset
+* Contains Language Model with Perplexity ~41
+* Contains Bengali News Classification Model with 94% accuracy
+
 #### Scrapers
 [Bengali News Channel Scraper](https://github.com/soham96/bengali_news_crawler)
 
@@ -76,3 +81,37 @@
 * Contains Language Model with Perplexity ~6
 * Contains Shloka Classification Model with kappa score ~56
 
+### Gujarati
+[NLP for Gujarati](https://github.com/goru001/nlp-for-gujarati)
+* Contains Wikipedia Articles Dataset (31,913 articles) and scripts which were used to scrape Wikipedia and clean that dataset
+* Contains Gujarati News classification Dataset and scripts which were used to scrape Gujarati news websites
+* Contains Language Model with Perplexity ~34
+* Contains News Classification Model with 91% accuracy
+
+### Kannada
+[NLP for Kannada](https://github.com/goru001/nlp-for-kannada)
+* Contains Wikipedia Articles Dataset (32,997 articles) and scripts which were used to scrape Wikipedia and clean that dataset
+* Contains Kannada News classification Dataset and scripts which were used to scrape Kannada news websites
+* Contains Language Model with Perplexity ~70
+* Contains News Classification Model with 94% accuracy
+
+### Malyalam
+[NLP for Malyalam](https://github.com/goru001/nlp-for-malyalam)
+* Contains Wikipedia Articles Dataset (12,388 articles) and scripts which were used to scrape Wikipedia and clean that dataset
+* Contains Malyalam News classification Dataset and scripts which were used to scrape Malyalam news websites
+* Contains Language Model with Perplexity ~26
+* Contains News Classification Model with 94% accuracy
+
+### Nepali
+[NLP for Nepali](https://github.com/goru001/nlp-for-nepali)
+* Contains Wikipedia Articles Dataset (38,757 articles) and scripts which were used to scrape Wikipedia and clean that dataset
+* Contains Nepali News classification Dataset and scripts which were used to scrape Nepali news websites
+* Contains Language Model with Perplexity ~32
+* Contains News Classification Model with 97% accuracy
+
+### Odia
+[NLP for Odia](https://github.com/goru001/nlp-for-odia)
+* Contains Wikipedia Articles Dataset (17,781 articles) and scripts which were used to scrape Wikipedia and clean that dataset
+* Contains Odia News classification Dataset and scripts which were used to scrape Odia news websites
+* Contains Language Model with Perplexity ~27
+* Contains News Classification Model with 95% accuracy
