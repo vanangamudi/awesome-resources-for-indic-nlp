@@ -69,3 +69,10 @@
 * Contains Language Model with Perplexity ~13
 * Contains BBC News Classification Model with kappa score ~49
 
+### Sanskrit
+[NLP for Sanskrit](https://github.com/goru001/nlp-for-sanskrit)
+* Contains Wikipedia Articles Dataset (22,273 articles) and scripts which were used to scrape Wikipedia and clean that dataset
+* Contains Shloka dataset and scripts which were used to scrape those Shlokas
+* Contains Language Model with Perplexity ~6
+* Contains Shloka Classification Model with kappa score ~56
+
