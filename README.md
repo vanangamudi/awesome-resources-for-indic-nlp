@@ -47,7 +47,7 @@
 
 [Bengali News Classification](https://github.com/soham96/Bengali_news_classifier)
 
-[NLP for Bengali](https://github.com/goru001/nlp-for-kannada)
+[NLP for Bengali](https://github.com/goru001/nlp-for-bengali)
 * Contains Wikipedia Articles Dataset (72,374 articles) and scripts which were used to scrape Wikipedia and clean that dataset
 * Contains Language Model with Perplexity ~41
 * Contains Bengali News Classification Model with 94% accuracy
