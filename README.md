@@ -59,59 +59,17 @@
 
 [Research Papers in Bengali NLP](http://www.tdil-dc.in/index.php?option=com_download&task=fsearch&lang=en&limitstart=45&limit=5)
 
-### Hindi
-[NLP for Hindi](https://github.com/goru001/nlp-for-hindi)
-* Contains Wikipedia Articles Dataset (55,000 articles) and scripts which were used to scrape Wikipedia and clean that dataset
-* Contains Hindi Movie Reviews Dataset and scripts which were used to scrape those Movie Reviews from Hindi News Websites
-* Contains Language Model with Perplexity ~36
-* Contains Movie Review classification model with Kappa Score ~30
-* Contains BBC News Classification Model with Accuracy ~79
+### Collection of Repositories
 
-### Punjabi
-[NLP for Punjabi](https://github.com/goru001/nlp-for-punjabi)
-* Contains Wikipedia Articles Dataset (44,000 articles) and scripts which were used to scrape Wikipedia and clean that dataset
-* Contains BBC Punjabi News dataset and scripts which were used to scrape those News articles from Punjabi News Websites
-* Contains Language Model with Perplexity ~13
-* Contains BBC News Classification Model with kappa score ~49
-
-### Sanskrit
-[NLP for Sanskrit](https://github.com/goru001/nlp-for-sanskrit)
-* Contains Wikipedia Articles Dataset (22,273 articles) and scripts which were used to scrape Wikipedia and clean that dataset
-* Contains Shloka dataset and scripts which were used to scrape those Shlokas
-* Contains Language Model with Perplexity ~6
-* Contains Shloka Classification Model with kappa score ~56
-
-### Gujarati
-[NLP for Gujarati](https://github.com/goru001/nlp-for-gujarati)
-* Contains Wikipedia Articles Dataset (31,913 articles) and scripts which were used to scrape Wikipedia and clean that dataset
-* Contains Gujarati News classification Dataset and scripts which were used to scrape Gujarati news websites
-* Contains Language Model with Perplexity ~34
-* Contains News Classification Model with 91% accuracy
-
-### Kannada
-[NLP for Kannada](https://github.com/goru001/nlp-for-kannada)
-* Contains Wikipedia Articles Dataset (32,997 articles) and scripts which were used to scrape Wikipedia and clean that dataset
-* Contains Kannada News classification Dataset and scripts which were used to scrape Kannada news websites
-* Contains Language Model with Perplexity ~70
-* Contains News Classification Model with 94% accuracy
-
-### Malyalam
-[NLP for Malyalam](https://github.com/goru001/nlp-for-malyalam)
-* Contains Wikipedia Articles Dataset (12,388 articles) and scripts which were used to scrape Wikipedia and clean that dataset
-* Contains Malyalam News classification Dataset and scripts which were used to scrape Malyalam news websites
-* Contains Language Model with Perplexity ~26
-* Contains News Classification Model with 94% accuracy
-
-### Nepali
-[NLP for Nepali](https://github.com/goru001/nlp-for-nepali)
-* Contains Wikipedia Articles Dataset (38,757 articles) and scripts which were used to scrape Wikipedia and clean that dataset
-* Contains Nepali News classification Dataset and scripts which were used to scrape Nepali news websites
-* Contains Language Model with Perplexity ~32
-* Contains News Classification Model with 97% accuracy
-
-### Odia
-[NLP for Odia](https://github.com/goru001/nlp-for-odia)
-* Contains Wikipedia Articles Dataset (17,781 articles) and scripts which were used to scrape Wikipedia and clean that dataset
-* Contains Odia News classification Dataset and scripts which were used to scrape Odia news websites
-* Contains Language Model with Perplexity ~27
-* Contains News Classification Model with 95% accuracy
+| Language | Repository                                                      | Perplexity of Language model | Wikipedia Articles Dataset |   Classification accuracy   |     Classification Kappa score    |
+|:--------:|-----------------------------------------------------------------|:----------------------------:|:--------------------------:|:---------------------------:|:---------------------------------:|
+|   Hindi  | [NLP for Hindi](https://github.com/goru001/nlp-for-hindi)       |              ~36             |       55,000 articles      |  ~79 (News Classification)  | ~30 (Movie Review Classification) |
+|  Punjabi | [NLP for Punjabi](https://github.com/goru001/nlp-for-punjabi)   |              ~13             |       44,000 articles      |                             |     ~49 (News Classification)     |
+| Sanskrit | [NLP for Sanskrit](https://github.com/goru001/nlp-for-sanskrit) |              ~6              |       22,273 articles      | ~70 (Shloka Classification) |    ~56 (Shloka Classification)    |
+| Gujarati | [NLP for Gujarati](https://github.com/goru001/nlp-for-gujarati) |              ~34             |       31,913 articles      |  ~91 (News Classification)  |     ~85 (News Classification)     |
+|  Kannada | [NLP for Kannada](https://github.com/goru001/nlp-for-kannada)   |              ~70             |       32,997 articles      |  ~94 (News Classification)  |     ~90 (News Classification)     |
+| Malyalam | [NLP for Malyalam](https://github.com/goru001/nlp-for-malyalam) |              ~26             |       12,388 articles      |  ~94 (News Classification)  |     ~91 (News Classification)     |
+|  Nepali  | [NLP for Nepali](https://github.com/goru001/nlp-for-nepali)     |              ~32             |       38,757 articles      |  ~97 (News Classification)  |     ~96 (News Classification)     |
+|   Odia   | [NLP for Odia](https://github.com/goru001/nlp-for-odia)         |              ~27             |       17,781 articles      |  ~95 (News Classification)  |     ~92 (News Classification)     |
+|  Marathi | [NLP for Marathi](https://github.com/goru001/nlp-for-marathi)   |              ~18             |       85,537 articles      |  ~91 (News Classification)  |     ~84 (News Classification)     |
+|  Bengali | [NLP for Bengali](https://github.com/goru001/nlp-for-bengali)   |              ~41             |       72,374 articles      |  ~94 (News Classification)  |     ~92 (News Classification)     |
