@@ -33,7 +33,7 @@
 
 #### Other projects
 [Open Tamil](https://github.com/Ezhil-Language-Foundation/open-tamil) Suite of tools for operating on tamil text.
-
+[Tokenizer, Language model and Classifier for Tamil language](https://github.com/ravi-annaswamy/tamil_lm_spm_fai) by [Ravi Annaswamy](https://github.com/ravi-annaswamy)
 #### Scrapers
 1. [Tamil Etymological Dictionary](https://github.com/vanangamudi/tamilvu-etymdict-scraper)
 2. [Newspaper Crawlers](https://github.com/vanangamudi/newspaper-crawler-scripts)
