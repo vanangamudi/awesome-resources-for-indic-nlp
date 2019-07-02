@@ -56,6 +56,12 @@
 #### Scrapers
 [Bengali News Channel Scraper](https://github.com/soham96/bengali_news_crawler)
 
+
+### Telgu  
+
+[Telugu-NLP](https://github.com/AnushaMotamarri/Telugu-NLP)  - Contains NLP tools developed for telugu
+
+  
 #### Research Papers and Data
 
 [Research Papers in Bengali NLP](http://www.tdil-dc.in/index.php?option=com_download&task=fsearch&lang=en&limitstart=45&limit=5)
