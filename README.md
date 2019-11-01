@@ -19,6 +19,8 @@
 
 [Central Institute of Indian Languages](http://ldcil.org)
 
+[OpenSLR Speech datasets](https://www.openslr.org/resources.php)
+
 ### Research Papers
 [Survey:Natural Language Parsing For Indian Languages](https://arxiv.org/pdf/1501.07005.pdf)
 
